@@ -1,17 +1,15 @@
 # RelationalDatabases and SQL
 
 This was an introductory course of five sessions with a focus on learning the basics of Relational Databases and how to use SQL to build or query databases.
-The course is based on two LinkdIn Learning courses (https://www.linkedin.com/learning/learning-relational-databases-2/welcome?u=50251009>
-<https://www.linkedin.com/learning/sql-essential-training-2/installing-on-windows-part-i?u=50251009>
-)
+The course is based on two LinkdIn Learning courses 
 
-1) Relational Databases 
-2) SQL Essential Training 
+1) [Relational Databases](https://www.linkedin.com/learning/learning-relational-databases-2/welcome?u=50251009)
+2) [SQL Essential Training](https://www.linkedin.com/learning/sql-essential-training-2/installing-on-windows-part-i?u=50251009)
 
  
-##**Learning objectives**
+## **Learning objectives**
 
-###***Part 1: Relational Databases***
+### ***Part 1: Relational Databases***
 
 - Identify the three rules of relations.
 - Summarize the four stages of developing a relational database.
@@ -23,7 +21,7 @@ The course is based on two LinkdIn Learning courses (https://www.linkedin.com/le
 - Define referential integrity.
 
 
-###***Part 2: SQL essential***
+### ***Part 2: SQL essential***
 
 - Understanding SQL terminology and syntax
 - Creating new tables
@@ -39,5 +37,8 @@ The course is based on two LinkdIn Learning courses (https://www.linkedin.com/le
 - Defining functions in PHP
 
 
-##**How to use the material**
-Download the ppt connected to the training that contain further help and redirect to the LinkdIn Learning videos
+## **How to use the material**
+Download the ppt connected to the training that contain further help and redirect to the LinkdIn Learning videos.
+If you do not want to use the ppt but connect directly to the LinkdIn learning videos you can use the Guide.md file to follow the training order.
+
+This repo has a [![License: CC BY-NC 4.0](https://licensebuttons.net/l/by-nc/4.0/80x15.png)](https://creativecommons.org/licenses/by-nc/4.0/) license
