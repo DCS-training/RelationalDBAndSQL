@@ -44,9 +44,6 @@ c.  [Understanding the RDBMS
 d.  [Life cycle of DB
     development](https://www.linkedin.com/learning/learning-relational-databases-2/the-database-development-lifecycle?autoplay=true&u=50251009)
 
-```{=html}
-<!-- -->
-```
 2.  **Preventing data anomalies**
 
 > This section goes though the basic concept and suggestion that you
@@ -75,9 +72,7 @@ f.  [Require complete
 g.  [Maintain a consistent
     structure](https://www.linkedin.com/learning/learning-relational-databases-2/maintain-a-consistent-structure?autoplay=true&u=50251009)
 
-```{=html}
-<!-- -->
-```
+
 3.  **Gathering requirements**
 
 > Depending on in which context you are building your database, you can
@@ -104,9 +99,7 @@ e.  [Work with historical
 f.  [Identify exceptions and
     irregularities](https://www.linkedin.com/learning/learning-relational-databases-2/identify-exceptions-and-irregularities?autoplay=true&u=50251009)
 
-```{=html}
-<!-- -->
-```
+
 4.  **Developing the Conceptual data model**
 
 > Here is where things start building up. You can consider the following
@@ -150,9 +143,7 @@ d.  [Third normal
 
 e.  [Denormalisation](https://www.linkedin.com/learning/learning-relational-databases-2/denormalization?autoplay=true&u=50251009)
 
-```{=html}
-<!-- -->
-```
+
 6.  **Logical Design Considerations**
 
 > This is the last stage of building your data base. This section will
