@@ -7,9 +7,9 @@ The course is based on two LinkdIn Learning courses
 2) SQL Essential Training 
 
  
-*Learning objectives*
+**Learning objectives**
 
-**Part 1: Relational Databases**
+***Part 1: Relational Databases***
 
 - Identify the three rules of relations.
 - Summarize the four stages of developing a relational database.
@@ -21,7 +21,7 @@ The course is based on two LinkdIn Learning courses
 - Define referential integrity.
 
 
-**Part 2: SQL essential**
+***Part 2: SQL essential***
 
 - Understanding SQL terminology and syntax
 - Creating new tables
@@ -37,5 +37,5 @@ The course is based on two LinkdIn Learning courses
 - Defining functions in PHP
 
 
-* How to use the material*
+**How to use the material**
 Download the ppt connected to the training that contain further help and redirect to the LinkdIn Learning videos
