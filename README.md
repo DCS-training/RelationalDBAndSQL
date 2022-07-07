@@ -1,10 +1,12 @@
 # RelationalDatabases and SQL
 
-This was an introductory course of five sessions with a focus on learning the basics of Relational Databases and how to use SQL to build or query databases.
-The course is based on two LinkdIn Learning courses 
+This was an introductory course of five sessions that was taught in 2019 with a focus on learning the basics of Relational Databases and how to use SQL to build or query databases.
+The course is based on two LinkdIn Learning courses.
 
 1) [Relational Databases](https://www.linkedin.com/learning/learning-relational-databases-2/welcome?u=50251009)
 2) [SQL Essential Training](https://www.linkedin.com/learning/sql-essential-training-2/installing-on-windows-part-i?u=50251009)
+
+The powerpoints and the guide were created by *L. Michielin*
 
  
 ## **Learning objectives**
